@@ -15,7 +15,7 @@ A Flutter-based interactive quiz application with gamification features, utilizi
   - [State Management](#state-management)
   - [Persistent Data Handling](#persistent-data-handling)
 - [Gamification Features](#gamification-features)
-- [Screenshots](#screenshots)
+- [Working Demo](#working-demo)
 - [Contributors](#contributors)
 
 ---
@@ -155,8 +155,9 @@ void saveQuestionProgress({
 
 ---
 
-## Screenshots
+## Working Demo
 
+https://github.com/user-attachments/assets/b27beb4d-33d1-467c-8a49-84255611aac7
 
 ---
 
@@ -167,3 +168,5 @@ void saveQuestionProgress({
 ---
 
 Happy Quizzing!
+
+
